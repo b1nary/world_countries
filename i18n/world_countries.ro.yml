@@ -1,0 +1,252 @@
+---
+:ro:
+  :countries:
+    af: Afganistan
+    ax: Insulele Åland
+    al: Albania
+    dz: Algeria
+    as: Samoa americană
+    ad: Andorra
+    ao: Angola
+    ai: Anguilla
+    aq: Antarctica
+    ag: Antigua și Barbuda
+    ar: Argentina
+    am: Armenia
+    aw: Aruba
+    au: Australia
+    at: Austria
+    az: Azerbaidjan
+    bs: Bahamas
+    bh: Bahrain
+    bd: Bangladesh
+    bb: Barbados
+    by: Belarus
+    be: Belgia
+    bz: Belize
+    bj: Benin
+    bm: Bermude
+    bt: Bhutan
+    bo: Bolivia
+    bq: Insulele Bonaire, Sint Eustatius și Saba
+    ba: Bosnia și Herțegovina
+    bw: Botswana
+    bv: Insula Bouvet
+    br: Brazilia
+    io: Teritoriul Britanic din Oceanul Indian
+    bn: Brunei
+    bg: Bulgaria
+    bf: Burkina Faso
+    bi: Burundi
+    kh: Cambodgia
+    cm: Camerun
+    ca: Canada
+    cw: Curaçao
+    cv: Republica Capului Verde
+    ky: Insulele Cayman
+    cf: Republica Centrafricană
+    td: Ciad
+    cl: Chile
+    cn: Republica Populară Chineză
+    cx: Insula Crăciunului
+    cc: Insulele Cocos
+    co: Columbia
+    km: Comore
+    cg: Congo
+    cd: Republica Democrată Congo
+    ck: Insulele Cook
+    cr: Costa Rica
+    ci: Coasta de Fildeș
+    hr: Croația
+    cu: Cuba
+    cy: Cipru
+    cz: Cehia
+    dk: Danemarca
+    dj: Djibouti
+    dm: Dominica
+    do: Republica Dominicană
+    ec: Ecuador
+    eg: Egipt
+    sv: El Salvador
+    gq: Guineea Ecuatorială
+    er: Eritreea
+    ee: Estonia
+    et: Etiopia
+    fk: Insulele Falkland
+    fo: Insulele Feroe
+    fj: Fiji
+    fi: Finlanda
+    fr: Franța
+    gf: Guiana Franceză
+    pf: Polinezia franceză
+    tf: Teritoriile australe și antarctice franceze
+    ga: Gabon
+    gm: Gambia
+    ge: Georgia
+    de: Germania
+    gh: Ghana
+    gi: Gibraltar
+    gr: Grecia
+    gl: Groenlanda
+    gd: Grenada
+    gp: Guadelupa
+    gu: Guam
+    gt: Guatemala
+    gg: Guernsey
+    gn: Guineea
+    gw: Guineea-Bissau
+    gy: Guyana
+    ht: Haiti
+    hm: Insula Heard și Insulele McDonald
+    va: Vatican
+    hn: Honduras
+    hk: Hong Kong
+    hu: Ungaria
+    is: Islanda
+    in: India
+    id: Indonezia
+    ir: Iran
+    iq: Irak
+    ie: Republica Irlanda
+    im: Insula Man
+    il: Israel
+    it: Italia
+    jm: Jamaica
+    jp: Japonia
+    je: Insula Jersey
+    jo: Iordania
+    kz: Kazahstan
+    ke: Kenya
+    ki: Kiribati
+    kp: Coreea de Nord
+    kr: Coreea de Sud
+    kw: Kuweit
+    kg: Kârgâzstan
+    la: Laos
+    lv: Letonia
+    lb: Liban
+    ls: Lesotho
+    lr: Liberia
+    ly: Libia
+    li: Liechtenstein
+    lt: Lituania
+    lu: Luxemburg
+    mo: Macao
+    mk: Republica Macedonia
+    mg: Madagascar
+    mw: Malawi
+    my: Malaezia
+    mv: Maldive
+    ml: Mali
+    mt: Malta
+    mh: Insulele Marshall
+    mq: Martinica
+    mr: Mauritania
+    mu: Mauritius
+    yt: Mayotte
+    mx: Mexic
+    fm: Micronezia
+    md: Republica Moldova
+    mc: Monaco
+    mn: Mongolia
+    me: Muntenegru
+    ms: Montserrat
+    ma: Maroc
+    mz: Mozambic
+    mm: Myanmar
+    na: Namibia
+    nr: Nauru
+    np: Nepal
+    nl: Țările de Jos
+    nc: Noua Caledonie
+    nz: Noua Zeelandă
+    ni: Nicaragua
+    ne: Niger
+    ng: Nigeria
+    nu: Niue
+    nf: Insula Norfolk
+    mp: Insulele Mariane de Nord
+    'no': Norvegia
+    om: Oman
+    pk: Pakistan
+    pw: Palau
+    ps: Teritoriile Palestiniene Ocupate
+    pa: Panama
+    pg: Papua Noua Guinee
+    py: Paraguay
+    pe: Peru
+    ph: Filipine
+    pn: Pitcairn
+    pl: Polonia
+    pt: Portugalia
+    pr: Puerto Rico
+    qa: Qatar
+    re: Réunion
+    ro: România
+    ru: Rusia
+    rw: Rwanda
+    bl: Saint Barthélemy
+    sh: Sfânta Elena
+    kn: Sfântul Kitts și Nevis
+    lc: Sfânta Lucia
+    mf: Sint Maarten (partea franceză)
+    pm: Sfântul Pierre și Miquelon
+    vc: Sfântul Vincent și Grenadine
+    ws: Samoa
+    sm: San Marino
+    st: Sao Tome și Principe
+    sa: Arabia Saudită
+    sn: Senegal
+    rs: Serbia
+    sc: Seychelles
+    sl: Sierra Leone
+    sg: Singapore
+    sx: Sint Maarten (partea olandeză)
+    sk: Slovacia
+    si: Slovenia
+    sb: Insulele Solomon
+    so: Somalia
+    za: Africa de Sud
+    gs: Georgia de Sud și Insulele Sandwich de Sud
+    es: Spania
+    lk: Sri Lanka
+    sd: Sudan
+    ss: Sudanul de Sud
+    sr: Surinam
+    sj: Svalbard și Jan Mayen
+    sz: Swaziland
+    se: Suedia
+    ch: Elveția
+    sy: Siria
+    tw: Taiwan
+    tj: Tadjikistan
+    tz: Tanzania
+    th: Thailanda
+    tl: Timorul de Est
+    tg: Togo
+    tk: Tokelau
+    to: Tonga
+    tt: Trinidad și Tobago
+    tn: Tunisia
+    tr: Turcia
+    tm: Turkmenistan
+    tc: Insulele Turks și Caicos
+    tv: Tuvalu
+    ug: Uganda
+    ua: Ucraina
+    ae: Emiratele Arabe Unite
+    gb: Regatul Unit
+    us: Statele Unite ale Americii
+    um: United States Minor Outlying Islands
+    uy: Uruguay
+    uz: Uzbekistan
+    vu: Vanuatu
+    ve: Venezuela
+    vn: Vietnam
+    vg: Insulele Virgine Britanice
+    vi: Insulele Virgine Americane
+    wf: Wallis și Futuna
+    eh: Sahara Occidentală
+    ye: Yemen
+    zm: Zambia
+    zw: Zimbabwe

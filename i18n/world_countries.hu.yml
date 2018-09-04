@@ -1,0 +1,252 @@
+---
+:hu:
+  :countries:
+    af: Afganisztán
+    ax: Åland
+    al: Albánia
+    dz: Algéria
+    um: Amerikai Csendes-óceáni szigetek
+    us: Amerikai Egyesült Államok
+    as: Amerikai Szamoa
+    vi: Amerikai Virgin-szigetek
+    ad: Andorra
+    ao: Angola
+    ai: Anguilla
+    aq: Antarktisz
+    ag: Antigua és Barbuda
+    ar: Argentína
+    aw: Aruba
+    au: Ausztrália
+    at: Ausztria
+    az: Azerbajdzsán
+    bs: Bahama-szigetek
+    bh: Bahrein
+    bd: Banglades
+    bb: Barbados
+    be: Belgium
+    bz: Belize
+    bj: Benin
+    bm: Bermuda
+    bt: Bhután
+    gw: Bissau-Guinea
+    bo: Bolívia
+    ba: Bosznia-Hercegovina
+    bw: Botswana
+    bv: Bouvet-sziget
+    br: Brazília
+    io: Brit Indiai-óceáni Terület
+    vg: Brit Virgin-szigetek
+    bn: Brunei
+    bg: Bulgária
+    bf: Burkina Faso
+    bi: Burundi
+    cl: Chile
+    cy: Ciprus
+    km: Comore-szigetek
+    ck: Cook-szigetek
+    cr: Costa Rica
+    cw: Curaçao
+    td: Csád
+    cz: Csehország
+    dk: Dánia
+    za: Dél-afrikai Köztársaság
+    gs: Déli-Georgia és Déli-Sandwich-szigetek
+    ss: Dél-Szudán
+    kr: Dél-Korea (Koreai Köztársaság)
+    dm: Dominikai Közösség
+    do: Dominikai Köztársaság
+    dj: Dzsibuti
+    ec: Ecuador
+    gq: Egyenlítői-Guinea
+    ae: Egyesült Arab Emírségek
+    gb: Egyesült Királyság
+    eg: Egyiptom
+    ci: Elefántcsontpart
+    sv: Salvador
+    er: Eritrea
+    mp: Északi-Mariana-szigetek
+    kp: Észak-Korea (Koreai NDK)
+    ee: Észtország
+    et: Etiópia
+    fk: Falkland-szigetek
+    by: Fehéroroszország
+    fo: Feröer
+    fj: Fidzsi
+    fi: Finnország
+    tf: Francia déli és antarktiszi területek
+    gf: Francia Guyana Francia Guyana
+    fr: Franciaország
+    pf: Francia Polinézia
+    ph: Fülöp-szigetek
+    ga: Gabon
+    gm: Gambia
+    gh: Ghána
+    gi: Gibraltár
+    gr: Görögország
+    gd: Grenada
+    gl: Grönland
+    ge: Grúzia
+    gp: Guadeloupe
+    gu: Guam
+    gt: Guatemala
+    gg: Guernsey Bailiffség
+    gn: Guinea
+    gy: Guyana
+    ht: Haiti
+    hm: Heard-sziget és McDonald-szigetek
+    nl: Hollandia
+    hn: Honduras
+    hk: Hongkong
+    hr: Horvátország
+    in: India
+    id: Indonézia
+    iq: Irak
+    ir: Irán
+    ie: Írország
+    is: Izland
+    il: Izrael
+    jm: Jamaica
+    jp: Japán
+    ye: Jemen
+    je: Jersey Bailiffség
+    jo: Jordánia
+    ky: Kajmán-szigetek
+    kh: Kambodzsa
+    cm: Kamerun
+    ca: Kanada
+    cx: Karácsony-sziget
+    bq: Karibi Hollandia (Bonaire, Saba, Sint Eustatius)
+    qa: Katar
+    kz: Kazahsztán
+    tl: Kelet-Timor
+    ke: Kenya
+    cn: Kína
+    kg: Kirgizisztán
+    ki: Kiribati
+    cc: Kókusz (Keeling)-szigetek
+    co: Kolumbia
+    cd: Kongói Demokratikus Köztársaság (Zaire)
+    cg: Kongói Köztársaság (Kongó)
+    cf: Közép-Afrika
+    cu: Kuba
+    kw: Kuvait
+    la: Laosz
+    pl: Lengyelország
+    ls: Lesotho
+    lv: Lettország
+    lb: Libanon
+    lr: Libéria
+    ly: Líbia
+    li: Liechtenstein
+    lt: Litvánia
+    lu: Luxemburg
+    mk: Macedónia
+    mg: Madagaszkár
+    hu: Magyarország
+    mo: Makaó
+    my: Malajzia
+    mw: Malawi
+    mv: Maldív-szigetek
+    ml: Mali
+    mt: Málta
+    im: Man
+    ma: Marokkó
+    mh: Marshall-szigetek
+    mq: Martinique
+    mr: Mauritánia
+    mu: Mauritius
+    yt: Mayotte
+    mx: Mexikó
+    mm: Mianmar
+    fm: Mikronézia
+    md: Moldova
+    mc: Monaco
+    mn: Mongólia
+    me: Montenegró
+    ms: Montserrat
+    mz: Mozambik
+    na: Namíbia
+    nr: Nauru
+    de: Németország
+    np: Nepál
+    ni: Nicaragua
+    ne: Niger
+    ng: Nigéria
+    nu: Niue
+    nf: Norfolk-sziget
+    'no': Norvégia
+    eh: Nyugat-Szahara
+    it: Olaszország
+    om: Omán
+    ru: Oroszország
+    am: Örményország
+    pk: Pakisztán
+    pw: Palau
+    ps: Palesztina
+    pa: Panama
+    pg: Pápua Új-Guinea
+    py: Paraguay
+    pe: Peru
+    pn: Pitcairn-szigetek
+    pt: Portugália
+    pr: Puerto Rico
+    re: Réunion
+    ro: Románia
+    rw: Ruanda
+    bl: Saint-Barthélemy
+    kn: Saint Kitts és Nevis
+    lc: Saint Lucia
+    mf: Saint-Martin
+    pm: Saint-Pierre és Miquelon
+    vc: Saint Vincent és a Grenadine-szigetek
+    sb: Salamon-szigetek
+    sm: San Marino
+    st: São Tomé és Príncipe
+    sc: Seychelle-szigetek
+    sl: Sierra Leone
+    sx: Sint Maarten
+    es: Spanyolország
+    sj: Spitzbergák és Jan Mayen-sziget
+    lk: Srí Lanka
+    sr: Suriname
+    ch: Svájc
+    se: Svédország
+    ws: Szamoa
+    sa: Szaúd-Arábia
+    sn: Szenegál
+    sh: Szent Ilona
+    rs: Szerbia
+    sg: Szingapúr
+    sy: Szíria
+    sk: Szlovákia
+    si: Szlovénia
+    so: Szomália
+    sd: Szudán
+    sz: Szváziföld
+    tj: Tádzsikisztán
+    tw: Tajvan
+    tz: Tanzánia
+    th: Thaiföld
+    tg: Togo
+    tk: Tokelau-szigetek
+    to: Tonga
+    tr: Törökország
+    tt: Trinidad és Tobago
+    tn: Tunézia
+    tc: Turks- és Caicos-szigetek
+    tv: Tuvalu
+    tm: Türkmenisztán
+    ug: Uganda
+    nc: Új-Kaledónia
+    nz: Új-Zéland
+    ua: Ukrajna
+    uy: Uruguay
+    uz: Üzbegisztán
+    vu: Vanuatu
+    va: Vatikán
+    ve: Venezuela
+    vn: Vietnám
+    wf: Wallis és Futuna
+    zm: Zambia
+    zw: Zimbabwe
+    cv: Zöld-foki Köztársaság
